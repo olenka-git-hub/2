@@ -1,0 +1,5 @@
+C:\Users\Olenka\Desktop\1\лекции\obj\Debug\net7.0\лекции.csproj.AssemblyReference.cache
+C:\Users\Olenka\Desktop\1\лекции\obj\Debug\net7.0\лекции.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olenka\Desktop\1\лекции\obj\Debug\net7.0\лекции.AssemblyInfoInputs.cache
+C:\Users\Olenka\Desktop\1\лекции\obj\Debug\net7.0\лекции.AssemblyInfo.cs
+C:\Users\Olenka\Desktop\1\лекции\obj\Debug\net7.0\лекции.csproj.CoreCompileInputs.cache
